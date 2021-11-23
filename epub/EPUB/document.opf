@@ -2,12 +2,12 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="en-US" prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="fidus">1</dc:identifier>
-    <dc:title>Book 1245</dc:title>
+    <dc:title>Book 124</dc:title>
     <dc:creator>
       Johannes Wilm
     </dc:creator>
     <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2021-11-23T22:50:41Z</meta>
+    <meta property="dcterms:modified">2021-11-23T23:35:56Z</meta>
     <dc:date>2021-11-23</dc:date>
   </metadata>
   <manifest>
